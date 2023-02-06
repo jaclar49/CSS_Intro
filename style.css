@@ -1,0 +1,13 @@
+h1 {
+    background-color: red;
+    color: white;
+}
+
+div{
+    width: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
